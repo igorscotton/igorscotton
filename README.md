@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ##
 
-### Most used Technologies:
+## Most used Technologies:
 
 <div style="display: flex; gap: 20px; justify-content: center">
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
